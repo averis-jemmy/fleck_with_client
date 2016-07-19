@@ -1,0 +1,10 @@
+C:\Users\jemmy.KLAV-SGH534RZG7\Documents\Visual Studio 2013\Projects\Fleck-master\src\Samples\ConsoleApp\bin\Debug\Fleck.Samples.ConsoleApp.exe
+C:\Users\jemmy.KLAV-SGH534RZG7\Documents\Visual Studio 2013\Projects\Fleck-master\src\Samples\ConsoleApp\bin\Debug\Fleck.Samples.ConsoleApp.pdb
+C:\Users\jemmy.KLAV-SGH534RZG7\Documents\Visual Studio 2013\Projects\Fleck-master\src\Samples\ConsoleApp\bin\Debug\Fleck.dll
+C:\Users\jemmy.KLAV-SGH534RZG7\Documents\Visual Studio 2013\Projects\Fleck-master\src\Samples\ConsoleApp\bin\Debug\Fleck.pdb
+C:\Users\jemmy.KLAV-SGH534RZG7\Documents\Visual Studio 2013\Projects\Fleck-master\src\Samples\ConsoleApp\obj\x86\Debug\ConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\jemmy.KLAV-SGH534RZG7\Documents\Visual Studio 2013\Projects\Fleck-master\src\Samples\ConsoleApp\obj\x86\Debug\Fleck.Samples.ConsoleApp.exe
+C:\Users\jemmy.KLAV-SGH534RZG7\Documents\Visual Studio 2013\Projects\Fleck-master\src\Samples\ConsoleApp\obj\x86\Debug\Fleck.Samples.ConsoleApp.pdb
+C:\Users\jemmy.KLAV-SGH534RZG7\Documents\Visual Studio 2013\Projects\Fleck-master\src\Samples\ConsoleApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jemmy.KLAV-SGH534RZG7\Documents\Visual Studio 2013\Projects\Fleck-master\src\Samples\ConsoleApp\bin\Debug\Model.dll
+C:\Users\jemmy.KLAV-SGH534RZG7\Documents\Visual Studio 2013\Projects\Fleck-master\src\Samples\ConsoleApp\bin\Debug\Model.pdb

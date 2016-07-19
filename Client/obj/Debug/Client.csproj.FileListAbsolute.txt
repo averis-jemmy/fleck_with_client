@@ -1,0 +1,14 @@
+C:\Users\jemmy.KLAV-SGH534RZG7\Documents\Visual Studio 2013\Projects\Fleck-master\src\Client\bin\Debug\Client.exe.config
+C:\Users\jemmy.KLAV-SGH534RZG7\Documents\Visual Studio 2013\Projects\Fleck-master\src\Client\bin\Debug\Client.exe
+C:\Users\jemmy.KLAV-SGH534RZG7\Documents\Visual Studio 2013\Projects\Fleck-master\src\Client\bin\Debug\Client.pdb
+C:\Users\jemmy.KLAV-SGH534RZG7\Documents\Visual Studio 2013\Projects\Fleck-master\src\Client\bin\Debug\Model.dll
+C:\Users\jemmy.KLAV-SGH534RZG7\Documents\Visual Studio 2013\Projects\Fleck-master\src\Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jemmy.KLAV-SGH534RZG7\Documents\Visual Studio 2013\Projects\Fleck-master\src\Client\bin\Debug\WebSocket4Net.dll
+C:\Users\jemmy.KLAV-SGH534RZG7\Documents\Visual Studio 2013\Projects\Fleck-master\src\Client\bin\Debug\Model.pdb
+C:\Users\jemmy.KLAV-SGH534RZG7\Documents\Visual Studio 2013\Projects\Fleck-master\src\Client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jemmy.KLAV-SGH534RZG7\Documents\Visual Studio 2013\Projects\Fleck-master\src\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\jemmy.KLAV-SGH534RZG7\Documents\Visual Studio 2013\Projects\Fleck-master\src\Client\obj\Debug\Client.FormChat.resources
+C:\Users\jemmy.KLAV-SGH534RZG7\Documents\Visual Studio 2013\Projects\Fleck-master\src\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\jemmy.KLAV-SGH534RZG7\Documents\Visual Studio 2013\Projects\Fleck-master\src\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\jemmy.KLAV-SGH534RZG7\Documents\Visual Studio 2013\Projects\Fleck-master\src\Client\obj\Debug\Client.exe
+C:\Users\jemmy.KLAV-SGH534RZG7\Documents\Visual Studio 2013\Projects\Fleck-master\src\Client\obj\Debug\Client.pdb
